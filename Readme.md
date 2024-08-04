@@ -16,7 +16,8 @@ Try it out live: [Screen Recorder Demo](https://screen-recorder-simple.vercel.ap
 
 Here’s a preview of the Screen Recorder interface:
 
-![Screen Recorder Screenshot]()
+![Screen Recorder Screenshot](https://github.com/user-attachments/assets/009990ae-9b49-4e3f-8b4b-bb86672f3a13)
+
 
 ## Files
 
